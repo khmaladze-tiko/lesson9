@@ -1,0 +1,135 @@
+body {
+	max-width: 1920px;
+	width: 100%;
+	background-color: #F8F8F8;
+}
+.container {
+	max-width: 1318px;
+	width: 100%;
+	margin: 50px auto;
+}
+.firstline {
+	font-size: 26px;
+	color: #404040;
+	padding-left: 18px;
+}
+.firstline:before {
+	content: '';
+	display: inline-block;
+	width: 10.36px;
+	height: 10.02px;
+	background-color: #6294A2;
+	border-radius: 50px;
+	margin-left: 20px;
+}
+.reviews {
+	font-size: 13px;
+	color: #707070;
+    padding-bottom: 15px;
+    padding-left: 38px;
+    padding-right: 67px;
+}
+.content-title {
+	font-size: 20px;
+	color: #333333;
+	padding-bottom: 5px;
+	padding-left: 38px;
+	padding-right: 67px;
+}
+.description {
+	font-size: 15px;
+	color: #707070;
+	padding-left: 38px;
+	padding-right: 67px;
+	height: 48px;
+}
+.first-section {
+	width: 405.82px;
+	height: 478px;
+	background-color: white;
+}
+.first-section div {
+	padding-top: 35px;
+}
+.first-block-pic {
+	width: 605px;
+	height: 477.6px;
+}
+.block-title {
+	font-size: 15px;
+	color: #F0F0F0;
+	position: absolute;
+	bottom: 92px;
+	left: 40px;
+}
+.pic-title h5 {
+	font-size: 32px;
+	color: #F0F0F0;
+	position: absolute;
+	bottom: 50px;
+	left: 40px;
+}
+.pic-title p {
+	font-size: 15px;
+	color: #F0F0F0;
+	position: absolute;
+	left: 40px;
+	bottom: 29px;
+}
+.relative {
+	position: relative;
+	width: 605.52px;
+	height: 477.61px;
+}
+.parent {
+    display: flex;
+    justify-content: space-between;
+}
+.secondline {
+	font-size: 26px;
+	color: #333333;
+	padding-top: 35px;
+	padding-left: 10px;
+}
+.secondline:before {
+	content: '';
+	display: inline-block;
+	width: 10.36px;
+	height: 10.02px;
+	background-color: #6294A2;
+	border-radius: 50px;
+	margin-left: 20px;
+}
+.section3 {
+	width: 1318px;
+	height: 423px;
+	background-color: white;
+}
+.box {
+	width: 377px;
+	height: 315px;
+	padding-top: 44px;
+	padding-right: 48px;
+}
+.box img {
+	width: 377px;
+	height: 156px;
+	padding-left: 25px;
+}
+.box h6 {
+	font-size: 20px;
+	color: #333333;
+	padding-top: 20px;
+	padding-left: 36px;
+}
+.box p {
+	font-size: 15px;
+	color: #707070;
+	padding-top: 20px;
+	padding-left: 36px;
+}
+.parent2 {
+	display: flex;
+	width: 1231px;
+	height: 315px;
+}
